@@ -84,6 +84,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Baldr God of Light [Hidden Glimmer]",
+        "images": "./assets/images/[Hidden Glimmer] God of Light Baldr.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Ban Transcendence [The Seven Deadly Sins]",
         "images": "./assets/images/[The Seven Deadly Sins] Transcendence Ban.png",
         "grade": "ssr",
@@ -203,11 +210,18 @@
         "attribute": "speed"
     },
     {
-        "name": "Chandler Magician [Pacifier Fiend]",
+        "name": "Chandler Mage [Pacifier Fiend]",
         "images": "./assets/images/[Pacifier Fiend] Magician Chandler.png",
         "grade": "ssr",
         "race": "demon",
         "attribute": "speed"
+    },
+    {
+        "name": "Chandler Mage [Ancient Demon]",
+        "images": "./assets/images/[Ancient Demon] Mage Chandler.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "strength"
     },
     {
         "name": "Highest-Ranking Demon Chandler [Origin Fragment]",
@@ -644,6 +658,13 @@
         "attribute": "light"
     },
     {
+        "name": "Escanor The Indomitable [Eternal Sun]",
+        "images": "./assets/images/[Eternal Sun] Escanor The Indomitable.png",
+        "grade": "ur",
+        "race": "human",
+        "attribute": "hp"
+    },
+    {
         "name": "Escanor The One [Invincible Avatar]",
         "images": "./assets/images/[Invincible Avatar] Escanor The One.png",
         "grade": "ssr",
@@ -691,6 +712,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "hp"
+    },
+    {
+        "name": "Fitoria [Filolial Queen]",
+        "images": "./assets/images/[Filolial Queen] Fitoria.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
     },
     {
         "name": "Fraudrin of Selflessness [The Ten Commandments]",
@@ -789,6 +817,13 @@
         "grade": "sr",
         "race": "human",
         "attribute": "speed"
+    },
+    {
+        "name": "Glass [Vassal Wielder]",
+        "images": "./assets/images/[Vassal Wielder] Glass.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
     },
     {
         "name": "Gloxinia of Repose [The Ten Commandments]",
@@ -1029,6 +1064,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Jenna Druid [Guardian of Istal]",
+        "images": "./assets/images/[Guardian of Istal] Druid Jenna.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
+    },
+    {
         "name": "Jenna Druid [Sweet Temptation]",
         "images": "./assets/images/[Sweet Temptation] Druid Jenna.png",
         "grade": "ssr",
@@ -1043,7 +1085,7 @@
         "attribute": "speed"
     },
     {
-        "name": "Guardian Jericho [Knight of Frost]",
+        "name": "Jericho Guardian [Knight of Frost]",
         "images": "./assets/images/[Knight of Frost] Guardian_Jericho.png",
         "grade": "ssr",
         "race": "human",
@@ -1505,7 +1547,14 @@
         "attribute": "hp"
     },
     {
-        "name": "Merlin Infinity Mage [The Last Sage]",
+        "name": "Merlin Mage of Infinity [Ocean Seeker]",
+        "images": "./assets/images/[Ocean Seeker] Mage of Infinity Merlin.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
+    },
+    {
+        "name": "Merlin Mage of Infinity [The Last Sage]",
         "images": "./assets/images/[The Last Sage] Infinity Mage Merlin.png",
         "grade": "ssr",
         "race": "unknown",
@@ -1596,6 +1645,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "speed"
+    },
+    {
+        "name": "Percival Boy of Hope [A New Adventure]",
+        "images": "./assets/images/[A New Adventure] Boy of Hope Percival.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
     },
     {
         "name": "Raphtalia [Naofumi's Sword]",
@@ -1710,6 +1766,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Sabunak Nightmare [Abyssal Shadow]",
+        "images": "./assets/images/[Abyssal Shadow] Nightmare Sabunak.png",
+        "grade": "ur",
+        "race": "unknown",
+        "attribute": "strength"
+    },
+    {
         "name": "Sariel of Tornado [The Four Archangels]",
         "images": "./assets/images/[The Four Archangels] Sariel of Tornado.png",
         "grade": "ssr",
@@ -1773,11 +1836,18 @@
         "attribute": "strength"
     },
     {
-        "name": "Skadi Titan [Hunter of Severe Cold]",
+        "name": "Skadi Giant [Hunter of Severe Cold]",
         "images": "./assets/images/[Hunter of Severe Cold] Titan Skadi.png",
         "grade": "ssr",
         "race": "giant",
         "attribute": "strength"
+    },
+    {
+        "name": "Skadi Giant [The Hunter]",
+        "images": "./assets/images/[The Hunter] Giant Skadi.png",
+        "grade": "ssr",
+        "race": "giant",
+        "attribute": "speed"
     },
     {
         "name": "Slater Hunter [Overpower]",
@@ -1841,6 +1911,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "strength"
+    },
+    {
+        "name": "Thor God of Thunder [Hammer of Justice]",
+        "images": "./assets/images/[Hammer of Justice] God of Thunder Thor.png",
+        "grade": "ur",
+        "race": "unknown",
+        "attribute": "speed"
     },
     {
         "name": "Tristan Prince [Future of Liones]",
@@ -1910,6 +1987,13 @@
         "images": "./assets/images/[Stranger Things] Will Byers.png",
         "grade": "ssr",
         "race": "human",
+        "attribute": "hp"
+    },
+    {
+        "name": "Wild Warrior of Puragtory [Proud Spirit]",
+        "images": "./assets/images/[Proud Spirit] Warrior of Puragtory Wild.png",
+        "grade": "ssr",
+        "race": "unknown",
         "attribute": "hp"
     },
     {
