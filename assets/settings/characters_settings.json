@@ -659,7 +659,7 @@
     },
     {
         "name": "Escanor The Indomitable [Eternal Sun]",
-        "images": "./assets/images/[Eternal Sun] Escanor The Indomitable.png",
+        "images": "./assets/images/[Eternal Sun] Escanor the Indomitable.png",
         "grade": "ur",
         "race": "human",
         "attribute": "hp"
@@ -1990,8 +1990,8 @@
         "attribute": "hp"
     },
     {
-        "name": "Wild Warrior of Puragtory [Proud Spirit]",
-        "images": "./assets/images/[Proud Spirit] Warrior of Puragtory Wild.png",
+        "name": "Wild Warrior of Purgatory [Proud Spirit]",
+        "images": "./assets/images/[Proud Spirit] Warrior of Purgatory Wild.png",
         "grade": "ssr",
         "race": "unknown",
         "attribute": "hp"
