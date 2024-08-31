@@ -259,6 +259,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Demiurge [Creator of the Hellfire Prison]",
+        "images": "./assets/images/[Creator of the Hellfire Prison] Demiurge.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
+    },
+    {
         "name": "Demon King Tyrant [The Ruler]",
         "images": "./assets/images/[The Ruler] Tyrant Demon King.png",
         "grade": "ssr",
@@ -1644,6 +1651,13 @@
         "images": "./assets/images/[Shield Hero] Iwatani Naofumi.png",
         "grade": "ssr",
         "race": "human",
+        "attribute": "speed"
+    },
+    {
+        "name": "Narberal Gamma [Pleiades]",
+        "images": "./assets/images/[Pleiades] Narberal Gamma.png",
+        "grade": "ssr",
+        "race": "unknown",
         "attribute": "speed"
     },
     {
