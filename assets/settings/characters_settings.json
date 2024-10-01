@@ -210,6 +210,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Camila Guardian Deity [Mixed Instincts]",
+        "images": "./assets/images/[Mixed Instincts] Guardian Deity Camila.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Chandler Mage [Pacifier Fiend]",
         "images": "./assets/images/[Pacifier Fiend] Magician Chandler.png",
         "grade": "ssr",
@@ -1666,6 +1673,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "hp"
+    },
+    {
+        "name": "Percival Little Hero [Unknown Magic Power]",
+        "images": "./assets/images/[Unknown Magic Power] Little Hero Percival.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "light"
     },
     {
         "name": "Raphtalia [Naofumi's Sword]",
