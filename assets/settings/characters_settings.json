@@ -2042,7 +2042,7 @@
         "name": "Zahard Data [Secret Floor]",
         "images": "./assets/images/[Secret Floor] Data Zahard.png",
         "grade": "ssr",
-        "race": "human",
+        "race": "unknown",
         "attribute": "hp"
     },
     {
