@@ -714,6 +714,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Estarossa Berserk [Holy War Nightmare]",
+        "images": "./assets/images/[Nightmare Holy War] Berserk Estarossa.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "strength"
+    },
+    {
         "name": "Estarossa Berserk [Twisted Darkness]",
         "images": "./assets/images/[Twisted Darkness] Berserk Estarossa.png",
         "grade": "ssr",
