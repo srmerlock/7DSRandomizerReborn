@@ -1267,6 +1267,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Lancelot Young Knight [Hero's Bloodline]",
+        "images": "./assets/images/[Hero's Bloodline] Lancelot Young Knight.png",
+        "grade": "ur",
+        "race": "human",
+        "attribute": "speed"
+    },
+    {
         "name": "Levi [Greatest Soldier]",
         "images": "./assets/images/[Greatest Soldier] Levi.png",
         "grade": "ssr",
@@ -1871,6 +1878,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Sigurd Prince Crowned [Curse of Greed]",
+        "images": "./assets/images/[Curse of Greed] Sigurd Prince Crowned.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
+    },
+    {
         "name": "Sigurd Prince Crowned [Owner of Gram]",
         "images": "./assets/images/[Owner of Gram] Sigurd Prince Crowned.png",
         "grade": "ssr",
@@ -2023,6 +2037,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "speed"
+    },
+    {
+        "name": "Varghese Retired Knight [Hermit]",
+        "images": "./assets/images/[Hermit] Varghese Retired Knight.png",
+        "grade": "ur",
+        "race": "human",
+        "attribute": "strength"
     },
     {
         "name": "Vivian Mage [Reincarnation of Obession]",
