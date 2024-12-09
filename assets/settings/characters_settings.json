@@ -1689,6 +1689,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Nasiens Herbalist [Venom Mixing].jpg",
+        "images": "./assets/images/[Venom Mixing] Herbalist Nasiens.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
+    },
+    {
         "name": "Percival Boy of Hope [A New Adventure]",
         "images": "./assets/images/[A New Adventure] Boy of Hope Percival.png",
         "grade": "ssr",
