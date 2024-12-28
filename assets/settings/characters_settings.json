@@ -525,6 +525,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Elizabeth & Meliodas [Light of the Holy War]",
+        "images": "./assets/images/[Light of the Holy War] Elizabeth & Meliodas.png",
+        "grade": "ur",
+        "race": "demon",
+        "attribute": "light"
+    },
+    {
         "name": "Elizabeth Princess [Liones]",
         "images": "./assets/images/[Liones] Princess Elizabeth.png",
         "grade": "ssr",
@@ -1843,6 +1850,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Sariel Covenant of Light [Advent of Tornado]",
+        "images": "./assets/images/[Advent of Tornado] Covenant of Light Sariel2.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "strength"
+    },
+    {
         "name": "Shalltear Bloodfallen [Bloodie Valkyrie]",
         "images": "./assets/images/[Bloodie Valkyrie] Shalltear Bloodfallen.png",
         "grade": "ssr",
@@ -2092,6 +2106,13 @@
         "images": "./assets/images/[Secret Floor] Data Zahard.png",
         "grade": "ssr",
         "race": "unknown",
+        "attribute": "hp"
+    },
+    {
+        "name": "Zaneri Druid [Holiday Diviner]",
+        "images": "./assets/images/[Holiday Diviner] Druid Zaneri.png",
+        "grade": "ssr",
+        "race": "human",
         "attribute": "hp"
     },
     {
