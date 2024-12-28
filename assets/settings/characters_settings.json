@@ -2113,7 +2113,7 @@
         "images": "./assets/images/[Holiday Diviner] Druid Zaneri.png",
         "grade": "ssr",
         "race": "human",
-        "attribute": "hp"
+        "attribute": "speed"
     },
     {
         "name": "Zaneri Druid [Sweet Temptation]",
